@@ -1,32 +1,69 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <div class="app-container">
+      <router-view/>
     </div>
-    <router-view/>
+    <the-footer :key="$route.fullPath" :class="$route.fullPath.match(/\w+/)"></the-footer>
   </div>
 </template>
 
-<style lang="scss">
+<script>
+import TheFooter from '@/components/Footer';
+
+export default {
+  name: 'App',
+
+  components: { TheFooter },
+
+  mounted() {
+    console.log(this.$route.fullPath);
+  },
+};
+</script>
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Barlow:300,400,500,700|Overpass+Mono:400,700&subset=latin-ext');
+
+/* font-family: 'Barlow', sans-serif;
+font-family: 'Overpass Mono', monospace; */
+
+body {
+  background-color: #efcddc;
+  padding: 0;
+  margin: 0;
+}
+
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Overpass Mono', monospace;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  margin-top: 60px;
+  padding: 0;
+
+  width: 100%;
+}
+.app-container {
+  max-width: 1126px; /* + 100px for padding */
+  position: relative;
+  padding-left: 50px;
+  padding-right: 50px;
+  margin: auto;
 }
 
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
+@media (max-width: 992px) {
+  .app-container {
+    padding-left: 20px;
+    padding-right: 20px;
   }
+}
+
+.highlight {
+  color: #7147dd;
+}
+
+#footer {
+  margin-top: 60px;
 }
 </style>

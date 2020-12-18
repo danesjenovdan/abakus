@@ -1,0 +1,69 @@
+{
+  "orgs": [{
+    "name": "CIPRA Slovenija, društvo za varstvo Alp",
+    "link": "http://www.cipra.org/sl"
+  }, {
+    "name": "Danes je nov dan",
+    "link": "https://danesjenovdan.si"
+  }, {
+    "name": "Društvo Asociacija",
+    "link": "http://www.asociacija.si/si/"
+  }, {
+    "name": "Društvo Legebitra",
+    "link": "https://legebitra.si/"
+  }, {
+    "name": "Društvo za uveljavljanje enakosti in pluralnosti Vita Activa",
+    "link": "https://spol.si/"
+  }, {
+    "name": "Društvo za zaščito živali Ljubljana",
+    "link": "http://www.dzzz.si/"
+  }, {
+    "name": "Ekologi brez meja",
+    "link": "http://ebm.si/o/sl"
+  }, {
+    "name": "Focus, društvo za sonaraven razvoj",
+    "link": "http://focus.si"
+  }, {
+    "name": "Gibanje za dostojno delo in socialno družbo",
+    "link": "https://socialna-druzba.si/ "
+  }, {
+    "name": "Greenpeace Slovenija",
+    "link": "http://www.greenpeace.org/slovenia/si/"
+  }, {
+    "name": "Iniciativa Mestni zbor",
+    "link": "http://www.imz-maribor.org/"
+  }, {
+    "name": "Inštitut 8. marec",
+    "link": "https://www.facebook.com/institut8.marec/"
+  }, {
+    "name": "IŠSP - Inštitut za študije stanovanj in prostora",
+    "link": ""
+  }, {
+    "name": "Mirovni inštitut",
+    "link": "http://www.mirovni-institut.si/"
+  }, {
+    "name": "prostoRož",
+    "link": "http://prostoroz.org/"
+  }, {
+    "name": "Pekarna Magdalenske mreže",
+    "link": "http://www.pekarna.org/"
+  }, {
+    "name": "Sindikat Mladi plus",
+    "link": "https://www.mladiplus.si/"
+  }, {
+    "name": "Sindikat prekarcev",
+    "link": "http://www.sindikat-prekarcev.si/"
+  }, {
+    "name": "Slovenska Zveza za Javno Zdravje, Okolje in Tobačno Kontrolo",
+    "link": "http://zadihaj.net/"
+  }, {
+    "name": "Poligon, zavod za razvoj kreativnih industrij",
+    "link": "http://www.poligon.si/"
+  }, {
+    "name": "Umanotera",
+    "link": "https://www.umanotera.org/"
+  }, {
+    "name": "Zavod TransAkcija",
+    "link": "http://transakcija.si/"
+  }]
+}
