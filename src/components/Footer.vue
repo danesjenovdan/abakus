@@ -15,7 +15,7 @@
         @click.native="mailShare()"
       ></share-button>
     </div>
-    <p>Z ljubeznijo pripravil Danes je nov dan.</p>
+    <p>Z ljubeznijo pripravil <a href="https://danesjenovdan.si/">Danes je nov dan</a>.</p>
   </div>
 </template>
 
@@ -30,8 +30,8 @@ export default {
   data() {
     return {
       title: 'Parlamentarni abakus',
-      text: 'Preigraj vse možnosti za padec vlade! Zmaga prvi, ki zbere 46 poslancev.',
-      hashtags: '#vladapada',
+      text: '– da ti poslancev ni treba šteti na prste.',
+      hashtags: '',
       link: '',
     };
   },

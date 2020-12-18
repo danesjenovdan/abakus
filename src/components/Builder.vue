@@ -164,7 +164,7 @@ export default {
 <style lang="scss" scoped>
   #builder {
     display: block;
-    padding-top: 40px;
+    // padding-top: 40px;
     flex-wrap: wrap;
     text-align: left;
     overflow: hidden;
