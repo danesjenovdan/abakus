@@ -2,7 +2,7 @@
   <div id="build-page">
     <h1>
       <span class="highlight">Parlamentarni abakus</span><br />
-      Za lažjo božično matematiko.</h1>
+      za lažjo politično matematiko.</h1>
     <builder></builder>
   </div>
 </template>

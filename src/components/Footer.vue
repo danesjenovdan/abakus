@@ -29,9 +29,9 @@ export default {
 
   data() {
     return {
-      title: 'Povolilna kombinatorika',
-      text: 'Zavrnimo povolilno trgovanje s pozicijami, fokus naj bo na vsebinah in kompetencah!',
-      hashtags: '#sestavivlado',
+      title: 'Parlamentarni abakus',
+      text: 'Preigraj vse možnosti za padec vlade! Zmaga prvi, ki zbere 46 poslancev.',
+      hashtags: '#vladapada',
       link: '',
     };
   },
