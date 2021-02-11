@@ -73,8 +73,6 @@
     }, {
         "38": "Ljubljana Moste - Polje III"
     }, {
-        "39": "Radovljica I"
-    }, {
         "40": "Kranj III"
     }, {
         "41": "Postojna"
@@ -139,8 +137,8 @@
     }, {
         "75": "\u017dalec I"
     }],
-    "created_at": "2020-12-18T12:25:22.807",
-    "created_for": "2020-12-18",
+    "created_at": "2021-02-05T12:26:35.064",
+    "created_for": "2021-02-05",
     "data": [{
         "person": {
             "name": "Aleksander Reber\u0161ek",
@@ -175,26 +173,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 62.0,
-                "rank": 15
+                "score": 66.0,
+                "rank": 16
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 95.7142857142857,
-                "rank": 31
+                "score": 95.774647887324,
+                "rank": 30
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 5.72409845449342,
-                "rank": 15
+                "score": 5.63616071428571,
+                "rank": 16
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.1657179000633,
+                "score": 98.282770463652,
                 "rank": 17
             },
             "birth_date": {
@@ -205,8 +203,76 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 94372,
+                "score": 99102,
                 "rank": 58
+            }
+        }
+    }, {
+        "person": {
+            "name": "Alenka Bratu\u0161ek",
+            "gov_id": "G006",
+            "gender": "f",
+            "is_active": false,
+            "district": [],
+            "party": {
+                "name": "Stranka Alenke Bratu\u0161ek",
+                "classification": "pg",
+                "acronym": "SAB",
+                "has_voters": false,
+                "is_coalition": false,
+                "id": 8
+            },
+            "type": "mp",
+            "id": 139,
+            "has_function": false
+        },
+        "results": {
+            "vocabulary_size": {
+                "diff": 0,
+                "score": 103.0,
+                "rank": 73
+            },
+            "gender": {
+                "score": "f"
+            },
+            "mandates": {
+                "score": null
+            },
+            "speeches_per_session": {
+                "diff": 0,
+                "score": 9.0,
+                "rank": 7
+            },
+            "number_of_questions": {
+                "diff": 0,
+                "score": 0.0,
+                "rank": 82
+            },
+            "presence_sessions": {
+                "diff": 0,
+                "score": 0,
+                "rank": 89
+            },
+            "mismatch_of_pg": {
+                "diff": 0,
+                "score": 0,
+                "rank": 82
+            },
+            "presence_votes": {
+                "diff": 0,
+                "score": 0,
+                "rank": 89
+            },
+            "birth_date": {
+                "score": null
+            },
+            "education": {
+                "score": null
+            },
+            "spoken_words": {
+                "diff": 0,
+                "score": 76489,
+                "rank": 67
             }
         }
     }, {
@@ -231,8 +297,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 91.0,
-                "rank": 88
+                "score": 92.0,
+                "rank": 85
             },
             "gender": {
                 "score": "f"
@@ -243,26 +309,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 69.0,
-                "rank": 11
+                "score": 71.0,
+                "rank": 12
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 88.5714285714286,
+                "score": 88.7323943661972,
                 "rank": 68
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 7.49856897538638,
-                "rank": 11
+                "score": 7.36607142857143,
+                "rank": 12
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 92.8526249209361,
+                "score": 93.5317687464224,
                 "rank": 45
             },
             "birth_date": {
@@ -273,7 +339,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 145365,
+                "score": 143558,
                 "rank": 35
             }
         }
@@ -311,26 +377,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 27.0,
-                "rank": 43
+                "score": 30.0,
+                "rank": 41
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 98.5714285714286,
-                "rank": 11
+                "score": 98.5915492957747,
+                "rank": 12
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 1.4882655981683,
-                "rank": 43
+                "score": 1.67410714285714,
+                "rank": 41
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.798228969007,
+                "score": 98.9124212936462,
                 "rank": 10
             },
             "birth_date": {
@@ -341,8 +407,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 131097,
-                "rank": 43
+                "score": 128950,
+                "rank": 45
             }
         }
     }, {
@@ -367,8 +433,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 125.0,
-                "rank": 23
+                "score": 124.0,
+                "rank": 27
             },
             "gender": {
                 "score": "f"
@@ -379,27 +445,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 76.0,
+                "score": 86.0,
                 "rank": 7
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 88.5714285714286,
-                "rank": 68
+                "score": 85.5263157894737,
+                "rank": 78
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 15.684029765312,
+                "score": 15.4575892857143,
                 "rank": 7
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 84.8829854522454,
-                "rank": 74
+                "score": 84.8708487084871,
+                "rank": 75
             },
             "birth_date": {
                 "score": "1979-03-30"
@@ -409,8 +475,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 201935,
-                "rank": 20
+                "score": 197683,
+                "rank": 21
             }
         }
     }, {
@@ -436,7 +502,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 122.0,
-                "rank": 29
+                "rank": 30
             },
             "gender": {
                 "score": "f"
@@ -447,7 +513,7 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
@@ -461,12 +527,12 @@
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 0.41039671682627,
+                "score": 0.386597938144334,
                 "rank": 67
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 99.4525547445255,
+                "score": 99.6057818659658,
                 "rank": 5
             },
             "birth_date": {
@@ -477,7 +543,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 50429,
+                "score": 55303,
                 "rank": 72
             }
         }
@@ -503,8 +569,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 118.0,
-                "rank": 40
+                "score": 115.0,
+                "rank": 46
             },
             "gender": {
                 "score": "f"
@@ -515,27 +581,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 21.0,
-                "rank": 50
+                "score": 24.0,
+                "rank": 49
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 95.7142857142857,
-                "rank": 31
+                "score": 95.774647887324,
+                "rank": 30
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 6.63995420721236,
-                "rank": 50
+                "score": 6.47321428571429,
+                "rank": 49
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 92.9791271347249,
-                "rank": 43
+                "score": 93.4745277618775,
+                "rank": 47
             },
             "birth_date": {
                 "score": "1969-03-05"
@@ -545,8 +611,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 70084,
-                "rank": 67
+                "score": 91813,
+                "rank": 60
             }
         }
     }, {
@@ -572,7 +638,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 103.0,
-                "rank": 74
+                "rank": 73
             },
             "gender": {
                 "score": "f"
@@ -587,22 +653,22 @@
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 70.0,
-                "rank": 10
+                "score": 71.0,
+                "rank": 12
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 90.0,
+                "score": 90.1408450704225,
                 "rank": 59
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 6.63995420721236,
-                "rank": 10
+                "score": 6.58482142857143,
+                "rank": 12
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 92.8526249209361,
+                "score": 93.5317687464224,
                 "rank": 45
             },
             "birth_date": {
@@ -613,7 +679,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 331648,
+                "score": 339200,
                 "rank": 6
             }
         }
@@ -639,7 +705,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 147.0,
+                "score": 146.0,
                 "rank": 3
             },
             "gender": {
@@ -651,27 +717,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 17.0,
-                "rank": 57
+                "rank": 58
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 94.2857142857143,
-                "rank": 38
+                "score": 94.3661971830986,
+                "rank": 37
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 2.91929021179165,
-                "rank": 57
+                "score": 2.84598214285714,
+                "rank": 58
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 95.6989247311828,
-                "rank": 28
+                "score": 96.0503720663995,
+                "rank": 29
             },
             "birth_date": {
                 "score": "1975-02-26"
@@ -681,8 +747,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 94508,
-                "rank": 57
+                "score": 100556,
+                "rank": 56
             }
         }
     }, {
@@ -707,8 +773,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 116.0,
-                "rank": 44
+                "score": 114.0,
+                "rank": 49
             },
             "gender": {
                 "score": "f"
@@ -719,26 +785,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 5.0,
-                "rank": 15
+                "rank": 16
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 17.0,
-                "rank": 57
+                "score": 18.0,
+                "rank": 56
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 5.78133943903835,
-                "rank": 57
+                "score": 5.69196428571429,
+                "rank": 56
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 93.6116382036686,
+                "score": 94.1614195764167,
                 "rank": 39
             },
             "birth_date": {
@@ -749,8 +815,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 113171,
-                "rank": 52
+                "score": 115891,
+                "rank": 53
             }
         }
     }, {
@@ -787,27 +853,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 62.0,
+                "score": 67.0,
                 "rank": 15
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 90.0,
+                "score": 90.1408450704225,
                 "rank": 59
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 9.61648540354894,
+                "score": 9.82142857142857,
                 "rank": 15
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 90.1328273244782,
-                "rank": 52
+                "score": 90.8986834573555,
+                "rank": 53
             },
             "birth_date": {
                 "score": "1971-09-20"
@@ -817,7 +883,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 135522,
+                "score": 134976,
                 "rank": 40
             }
         }
@@ -844,7 +910,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 97.0,
-                "rank": 82
+                "rank": 83
             },
             "gender": {
                 "score": "f"
@@ -855,27 +921,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 21.0,
-                "rank": 50
+                "score": 23.0,
+                "rank": 51
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 95.7142857142857,
-                "rank": 31
+                "score": 95.774647887324,
+                "rank": 30
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 3.94962793360045,
-                "rank": 50
+                "score": 3.85044642857143,
+                "rank": 51
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 97.090449082859,
-                "rank": 25
+                "score": 97.366914710933,
+                "rank": 24
             },
             "birth_date": {
                 "score": "1970-07-04"
@@ -885,8 +951,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 193544,
-                "rank": 23
+                "score": 196361,
+                "rank": 22
             }
         }
     }, {
@@ -923,26 +989,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 49.0,
+                "score": 51.0,
                 "rank": 28
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 98.5714285714286,
-                "rank": 11
+                "score": 98.5915492957747,
+                "rank": 12
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 3.14825414997138,
+                "score": 3.125,
                 "rank": 28
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.6717267552182,
+                "score": 98.7979393245564,
                 "rank": 12
             },
             "birth_date": {
@@ -953,8 +1019,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 128305,
-                "rank": 45
+                "score": 130234,
+                "rank": 43
             }
         }
     }, {
@@ -979,8 +1045,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 109.0,
-                "rank": 57
+                "score": 110.0,
+                "rank": 56
             },
             "gender": {
                 "score": "f"
@@ -991,26 +1057,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 23.0,
-                "rank": 48
+                "score": 25.0,
+                "rank": 47
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 10.6468231253578,
-                "rank": 48
+                "score": 10.8258928571429,
+                "rank": 47
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 88.9943074003795,
+                "score": 89.9255867200916,
                 "rank": 62
             },
             "birth_date": {
@@ -1021,8 +1087,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 26032,
-                "rank": 79
+                "score": 27685,
+                "rank": 80
             }
         }
     }, {
@@ -1059,27 +1125,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 7.0,
-                "rank": 7
+                "rank": 8
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 24.0,
-                "rank": 47
+                "rank": 49
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 6.98340011448198,
-                "rank": 47
+                "score": 7.03125,
+                "rank": 49
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 93.2953826691967,
-                "rank": 40
+                "score": 93.6462507155123,
+                "rank": 43
             },
             "birth_date": {
                 "score": "1962-05-09"
@@ -1089,8 +1155,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 227783,
-                "rank": 15
+                "score": 229497,
+                "rank": 16
             }
         }
     }, {
@@ -1132,22 +1198,22 @@
             "number_of_questions": {
                 "diff": 0,
                 "score": 46.0,
-                "rank": 31
+                "rank": 32
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 90.0,
+                "score": 90.1408450704225,
                 "rank": 59
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 9.559244419004,
-                "rank": 31
+                "score": 9.43080357142857,
+                "rank": 32
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 89.247311827957,
-                "rank": 61
+                "score": 90.2117916428163,
+                "rank": 59
             },
             "birth_date": {
                 "score": "1962-08-26"
@@ -1157,8 +1223,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 295145,
-                "rank": 8
+                "score": 286832,
+                "rank": 9
             }
         }
     }, {
@@ -1183,8 +1249,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 109.0,
-                "rank": 57
+                "score": 108.0,
+                "rank": 59
             },
             "gender": {
                 "score": "f"
@@ -1194,13 +1260,13 @@
             },
             "speeches_per_session": {
                 "diff": 0,
-                "score": 41.0,
+                "score": 39.0,
                 "rank": 1
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 8.0,
-                "rank": 73
+                "rank": 72
             },
             "presence_sessions": {
                 "diff": 0,
@@ -1209,12 +1275,12 @@
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 2.34688036634229,
-                "rank": 73
+                "score": 2.56696428571429,
+                "rank": 72
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.1024667931689,
+                "score": 98.225529479107,
                 "rank": 18
             },
             "birth_date": {
@@ -1225,8 +1291,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 83108,
-                "rank": 61
+                "score": 83056,
+                "rank": 63
             }
         }
     }, {
@@ -1263,27 +1329,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 10.0,
-                "rank": 71
+                "rank": 70
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 98.5714285714286,
-                "rank": 11
+                "score": 98.5915492957747,
+                "rank": 12
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 3.77790497996565,
-                "rank": 71
+                "score": 3.73883928571429,
+                "rank": 70
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 95.8254269449715,
-                "rank": 26
+                "score": 96.1648540354894,
+                "rank": 27
             },
             "birth_date": {
                 "score": "1965-05-16"
@@ -1331,27 +1397,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 55.0,
+                "score": 56.0,
                 "rank": 23
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 84.2857142857143,
+                "score": 84.5070422535211,
                 "rank": 79
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 11.3909559244419,
+                "score": 11.1607142857143,
                 "rank": 23
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 86.7172675521822,
-                "rank": 71
+                "score": 87.9221522610189,
+                "rank": 69
             },
             "birth_date": {
                 "score": "1975-02-01"
@@ -1361,8 +1427,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 86024,
-                "rank": 60
+                "score": 85892,
+                "rank": 61
             }
         }
     }, {
@@ -1387,8 +1453,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 131.0,
-                "rank": 14
+                "score": 132.0,
+                "rank": 13
             },
             "gender": {
                 "score": "f"
@@ -1398,28 +1464,28 @@
             },
             "speeches_per_session": {
                 "diff": 0,
-                "score": 27.0,
+                "score": 26.0,
                 "rank": 4
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 0.0,
-                "rank": 83
+                "rank": 82
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 95.7142857142857,
-                "rank": 31
+                "score": 95.774647887324,
+                "rank": 30
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 8.98683457355467,
-                "rank": 83
+                "score": 8.984375,
+                "rank": 82
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 89.4370651486401,
-                "rank": 58
+                "score": 90.3262736119061,
+                "rank": 56
             },
             "birth_date": {
                 "score": "1967-10-16"
@@ -1429,8 +1495,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 226800,
-                "rank": 16
+                "score": 233356,
+                "rank": 15
             }
         }
     }, {
@@ -1467,12 +1533,12 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 0.0,
-                "rank": 83
+                "rank": 82
             },
             "presence_sessions": {
                 "diff": 0,
@@ -1481,13 +1547,13 @@
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 3.92464678178965,
-                "rank": 83
+                "score": 3.94238059135709,
+                "rank": 82
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 97.1119133574007,
-                "rank": 24
+                "score": 96.9387755102041,
+                "rank": 25
             },
             "birth_date": {
                 "score": "1952-09-13"
@@ -1497,8 +1563,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 68550,
-                "rank": 69
+                "score": 69932,
+                "rank": 70
             }
         }
     }, {
@@ -1523,8 +1589,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 126.0,
-                "rank": 18
+                "score": 125.0,
+                "rank": 22
             },
             "gender": {
                 "score": "f"
@@ -1535,26 +1601,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 235.0,
+                "score": 247.0,
                 "rank": 3
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 5.32341156267888,
+                "score": 5.24553571428571,
                 "rank": 3
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 91.0815939278937,
+                "score": 91.29937034917,
                 "rank": 50
             },
             "birth_date": {
@@ -1565,7 +1631,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 116753,
+                "score": 119331,
                 "rank": 51
             }
         }
@@ -1603,27 +1669,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 7.0,
-                "rank": 7
+                "rank": 8
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 12.0,
-                "rank": 65
+                "score": 15.0,
+                "rank": 63
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.1428571428571,
+                "score": 97.1830985915493,
                 "rank": 20
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 4.75100171722954,
-                "rank": 65
+                "score": 4.6875,
+                "rank": 63
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 95.5091714104997,
-                "rank": 31
+                "score": 95.8214081282198,
+                "rank": 32
             },
             "birth_date": {
                 "score": "1968-08-12"
@@ -1633,8 +1699,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 188323,
-                "rank": 26
+                "score": 189878,
+                "rank": 27
             }
         }
     }, {
@@ -1659,8 +1725,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 92.0,
-                "rank": 85
+                "score": 91.0,
+                "rank": 88
             },
             "gender": {
                 "score": "f"
@@ -1671,12 +1737,12 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 0.0,
-                "rank": 83
+                "rank": 82
             },
             "presence_sessions": {
                 "diff": 0,
@@ -1685,12 +1751,12 @@
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 0.683994528043769,
-                "rank": 83
+                "score": 0.773195876288653,
+                "rank": 82
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 99.8319327731092,
+                "score": 99.7371879106439,
                 "rank": 3
             },
             "birth_date": {
@@ -1701,7 +1767,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 17565,
+                "score": 20159,
                 "rank": 83
             }
         }
@@ -1727,8 +1793,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 117.0,
-                "rank": 41
+                "score": 118.0,
+                "rank": 40
             },
             "gender": {
                 "score": "f"
@@ -1739,27 +1805,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 7.0,
-                "rank": 7
+                "rank": 8
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 76.0,
-                "rank": 7
+                "score": 77.0,
+                "rank": 8
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 88.5714285714286,
+                "score": 88.7323943661972,
                 "rank": 68
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 9.44476244991414,
-                "rank": 7
+                "score": 9.26339285714286,
+                "rank": 8
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 88.9310562934851,
-                "rank": 63
+                "score": 89.9828277046365,
+                "rank": 61
             },
             "birth_date": {
                 "score": "1976-12-09"
@@ -1769,8 +1835,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 200803,
-                "rank": 21
+                "score": 204745,
+                "rank": 19
             }
         }
     }, {
@@ -1807,26 +1873,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 0.0,
-                "rank": 83
+                "rank": 82
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 91.4285714285714,
+                "score": 91.5492957746479,
                 "rank": 56
             },
             "mismatch_of_pg": {
                 "diff": 0,
                 "score": 0.0,
-                "rank": 83
+                "rank": 82
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 91.7141049968374,
+                "score": 92.3297080709788,
                 "rank": 49
             },
             "birth_date": {
@@ -1837,8 +1903,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 14412,
-                "rank": 86
+                "score": 14693,
+                "rank": 85
             }
         }
     }, {
@@ -1864,7 +1930,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 105.0,
-                "rank": 69
+                "rank": 67
             },
             "gender": {
                 "score": "f"
@@ -1875,27 +1941,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 81
+                "rank": 80
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 75.7142857142857,
+                "score": 76.056338028169,
                 "rank": 88
             },
             "mismatch_of_pg": {
                 "diff": 0,
                 "score": 0.0,
-                "rank": 81
+                "rank": 80
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 79.5698924731183,
-                "rank": 81
+                "score": 81.3394390383515,
+                "rank": 80
             },
             "birth_date": {
                 "score": "1972-04-13"
@@ -1932,7 +1998,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 122.0,
-                "rank": 29
+                "rank": 30
             },
             "gender": {
                 "score": "f"
@@ -1943,27 +2009,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 5.0,
-                "rank": 15
+                "rank": 16
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 18.0,
-                "rank": 55
+                "rank": 56
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 84.6153846153846,
-                "rank": 78
+                "score": 85.7142857142857,
+                "rank": 77
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 16.7464114832536,
-                "rank": 55
+                "score": 16.4239953407105,
+                "rank": 56
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 78.8601722995361,
-                "rank": 82
+                "score": 80.4878048780488,
+                "rank": 81
             },
             "birth_date": {
                 "score": "1970-07-23"
@@ -1973,7 +2039,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 229886,
+                "score": 233644,
                 "rank": 14
             }
         }
@@ -1999,7 +2065,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 105.0,
+                "score": 104.0,
                 "rank": 69
             },
             "gender": {
@@ -2011,26 +2077,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 10.0,
-                "rank": 71
+                "rank": 70
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.1428571428571,
+                "score": 97.1830985915493,
                 "rank": 20
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 2.57584430452204,
-                "rank": 71
+                "score": 2.67857142857143,
+                "rank": 70
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 97.9759645793801,
+                "score": 98.1110475100172,
                 "rank": 20
             },
             "birth_date": {
@@ -2041,76 +2107,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 77596,
-                "rank": 63
-            }
-        }
-    }, {
-        "person": {
-            "name": "Franc Kramar",
-            "gov_id": "P340",
-            "gender": "f",
-            "is_active": true,
-            "district": [39],
-            "party": {
-                "name": "Stranka Alenke Bratu\u0161ek",
-                "classification": "pg",
-                "acronym": "SAB",
-                "has_voters": false,
-                "is_coalition": false,
-                "id": 8
-            },
-            "type": "mp",
-            "id": 59,
-            "has_function": false
-        },
-        "results": {
-            "vocabulary_size": {
-                "diff": 0,
-                "score": 106.0,
-                "rank": 64
-            },
-            "gender": {
-                "score": "f"
-            },
-            "mandates": {
-                "score": 1
-            },
-            "speeches_per_session": {
-                "diff": 0,
-                "score": 1.0,
-                "rank": 67
-            },
-            "number_of_questions": {
-                "diff": 0,
-                "score": 14.0,
-                "rank": 62
-            },
-            "presence_sessions": {
-                "diff": 0,
-                "score": 70.0,
-                "rank": 89
-            },
-            "mismatch_of_pg": {
-                "diff": 0,
-                "score": 38.0652547223812,
-                "rank": 62
-            },
-            "presence_votes": {
-                "diff": 0,
-                "score": 60.0885515496521,
-                "rank": 88
-            },
-            "birth_date": {
-                "score": "1960-04-22"
-            },
-            "education": {
-                "score": "7"
-            },
-            "spoken_words": {
-                "diff": 0,
-                "score": 64284,
-                "rank": 71
+                "score": 78862,
+                "rank": 65
             }
         }
     }, {
@@ -2136,7 +2134,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 100.0,
-                "rank": 79
+                "rank": 78
             },
             "gender": {
                 "score": "f"
@@ -2147,27 +2145,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 19.0,
-                "rank": 54
+                "rank": 55
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 4.52203777904981,
-                "rank": 54
+                "score": 4.46428571428571,
+                "rank": 55
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 94.3074003795066,
-                "rank": 37
+                "score": 94.791070406411,
+                "rank": 35
             },
             "birth_date": {
                 "score": "1967-10-28"
@@ -2178,7 +2176,7 @@
             "spoken_words": {
                 "diff": 0,
                 "score": 18026,
-                "rank": 82
+                "rank": 84
             }
         }
     }, {
@@ -2214,28 +2212,28 @@
             },
             "speeches_per_session": {
                 "diff": 0,
-                "score": 7.0,
-                "rank": 7
+                "score": 6.0,
+                "rank": 13
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 608.0,
+                "score": 651.0,
                 "rank": 1
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 77.1428571428572,
+                "score": 77.4647887323944,
                 "rank": 86
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 17.5102599179206,
+                "score": 16.8814432989691,
                 "rank": 1
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 77.9253636938647,
-                "rank": 84
+                "score": 79.7939324556382,
+                "rank": 82
             },
             "birth_date": {
                 "score": "1969-01-03"
@@ -2245,7 +2243,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 547380,
+                "score": 555594,
                 "rank": 2
             }
         }
@@ -2272,7 +2270,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 104.0,
-                "rank": 72
+                "rank": 69
             },
             "gender": {
                 "score": "f"
@@ -2283,26 +2281,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 20.0,
+                "score": 21.0,
                 "rank": 52
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 90.0,
+                "score": 90.1408450704225,
                 "rank": 59
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 4.80824270177447,
+                "score": 4.74330357142857,
                 "rank": 52
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 93.9911448450348,
+                "score": 94.4476244991414,
                 "rank": 38
             },
             "birth_date": {
@@ -2313,7 +2311,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 43472,
+                "score": 43552,
                 "rank": 74
             }
         }
@@ -2340,7 +2338,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 122.0,
-                "rank": 29
+                "rank": 30
             },
             "gender": {
                 "score": "f"
@@ -2351,26 +2349,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 13.0,
+                "score": 14.0,
                 "rank": 64
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.1428571428571,
+                "score": 97.1830985915493,
                 "rank": 20
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 2.00343445907269,
+                "score": 1.953125,
                 "rank": 64
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 97.7229601518027,
+                "score": 97.9393245563824,
                 "rank": 21
             },
             "birth_date": {
@@ -2381,8 +2379,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 203463,
-                "rank": 19
+                "score": 204315,
+                "rank": 20
             }
         }
     }, {
@@ -2408,7 +2406,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 125.0,
-                "rank": 23
+                "rank": 22
             },
             "gender": {
                 "score": "f"
@@ -2419,26 +2417,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 11.0,
-                "rank": 67
+                "score": 13.0,
+                "rank": 65
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 93.4426229508197,
+                "score": 93.5483870967742,
                 "rank": 43
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 19.815668202765,
-                "rank": 67
+                "score": 19.2528735632184,
+                "rank": 65
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 89.57928802589,
+                "score": 90.3565166569258,
                 "rank": 55
             },
             "birth_date": {
@@ -2449,7 +2447,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 12137,
+                "score": 12195,
                 "rank": 87
             }
         }
@@ -2475,7 +2473,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 137.0,
+                "score": 136.0,
                 "rank": 9
             },
             "gender": {
@@ -2487,26 +2485,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 5.0,
-                "rank": 15
+                "rank": 16
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 14.0,
-                "rank": 62
+                "score": 16.0,
+                "rank": 61
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.1428571428571,
+                "score": 97.1830985915493,
                 "rank": 20
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 1.88895248998283,
-                "rank": 62
+                "score": 2.00892857142857,
+                "rank": 61
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.4819734345351,
+                "score": 98.5117344018317,
                 "rank": 15
             },
             "birth_date": {
@@ -2517,8 +2515,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 169962,
-                "rank": 32
+                "score": 172623,
+                "rank": 31
             }
         }
     }, {
@@ -2543,7 +2541,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 134.0,
+                "score": 135.0,
                 "rank": 10
             },
             "gender": {
@@ -2554,7 +2552,7 @@
             },
             "speeches_per_session": {
                 "diff": 0,
-                "score": 22.0,
+                "score": 21.0,
                 "rank": 5
             },
             "number_of_questions": {
@@ -2564,18 +2562,18 @@
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.1428571428571,
+                "score": 97.1830985915493,
                 "rank": 20
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 3.94962793360045,
+                "score": 3.85044642857143,
                 "rank": 75
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 95.8254269449715,
-                "rank": 26
+                "score": 96.1076130509445,
+                "rank": 28
             },
             "birth_date": {
                 "score": "1978-01-09"
@@ -2585,8 +2583,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 180975,
-                "rank": 29
+                "score": 192907,
+                "rank": 25
             }
         }
     }, {
@@ -2612,7 +2610,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 116.0,
-                "rank": 44
+                "rank": 43
             },
             "gender": {
                 "score": "f"
@@ -2623,26 +2621,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 27.0,
-                "rank": 43
+                "rank": 46
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 78.5714285714286,
+                "score": 78.8732394366197,
                 "rank": 85
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 14.3102461362335,
-                "rank": 43
+                "score": 14.1741071428571,
+                "rank": 46
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 80.3289057558507,
+                "score": 82.1408128219805,
                 "rank": 79
             },
             "birth_date": {
@@ -2653,7 +2651,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 140392,
+                "score": 141886,
                 "rank": 36
             }
         }
@@ -2691,27 +2689,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 8.0,
-                "rank": 73
+                "rank": 72
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 4.63651974813966,
-                "rank": 73
+                "score": 4.79910714285714,
+                "rank": 72
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 95.4459203036053,
-                "rank": 32
+                "score": 95.8786491127647,
+                "rank": 31
             },
             "birth_date": {
                 "score": "1957-12-25"
@@ -2722,7 +2720,7 @@
             "spoken_words": {
                 "diff": 0,
                 "score": 77355,
-                "rank": 64
+                "rank": 66
             }
         }
     }, {
@@ -2747,8 +2745,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 91.0,
-                "rank": 88
+                "score": 89.0,
+                "rank": 89
             },
             "gender": {
                 "score": "f"
@@ -2759,12 +2757,12 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 79
+                "rank": 78
             },
             "presence_sessions": {
                 "diff": 0,
@@ -2773,12 +2771,12 @@
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 1.09439124487004,
-                "rank": 79
+                "score": 1.15979381443299,
+                "rank": 78
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 99.6557659208262,
+                "score": 99.6221662468514,
                 "rank": 4
             },
             "birth_date": {
@@ -2789,8 +2787,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 17482,
-                "rank": 84
+                "score": 20605,
+                "rank": 82
             }
         }
     }, {
@@ -2827,7 +2825,7 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
@@ -2836,18 +2834,18 @@
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 96.7213114754098,
-                "rank": 30
+                "score": 94.0298507462687,
+                "rank": 42
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 10.4454685099846,
+                "score": 10.4885057471264,
                 "rank": 61
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 89.4805194805195,
-                "rank": 57
+                "score": 89.4637223974763,
+                "rank": 64
             },
             "birth_date": {
                 "score": "1965-03-10"
@@ -2857,8 +2855,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 292917,
-                "rank": 9
+                "score": 298455,
+                "rank": 8
             }
         }
     }, {
@@ -2883,7 +2881,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 122.0,
+                "score": 123.0,
                 "rank": 29
             },
             "gender": {
@@ -2895,26 +2893,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 204.0,
+                "score": 207.0,
                 "rank": 4
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.1428571428571,
+                "score": 97.1830985915493,
                 "rank": 20
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 5.72409845449342,
+                "score": 5.69196428571429,
                 "rank": 4
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 91.9671094244149,
+                "score": 92.4441900400687,
                 "rank": 48
             },
             "birth_date": {
@@ -2925,7 +2923,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 121202,
+                "score": 122213,
                 "rank": 49
             }
         }
@@ -2952,7 +2950,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 125.0,
-                "rank": 23
+                "rank": 22
             },
             "gender": {
                 "score": "f"
@@ -2963,27 +2961,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 33.0,
+                "score": 35.0,
                 "rank": 38
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 15.3405838580424,
+                "score": 15.234375,
                 "rank": 38
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 83.1752055660974,
-                "rank": 77
+                "score": 83.3428734974242,
+                "rank": 76
             },
             "birth_date": {
                 "score": "1989-04-07"
@@ -2993,8 +2991,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 67528,
-                "rank": 70
+                "score": 70173,
+                "rank": 69
             }
         }
     }, {
@@ -3020,7 +3018,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 103.0,
-                "rank": 74
+                "rank": 73
             },
             "gender": {
                 "score": "f"
@@ -3031,26 +3029,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 27.0,
-                "rank": 43
+                "score": 28.0,
+                "rank": 44
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 95.7142857142857,
-                "rank": 31
+                "score": 95.774647887324,
+                "rank": 30
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 4.80824270177447,
-                "rank": 43
+                "score": 4.91071428571429,
+                "rank": 44
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 94.6869070208729,
+                "score": 95.1345163136806,
                 "rank": 34
             },
             "birth_date": {
@@ -3061,8 +3059,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 190637,
-                "rank": 24
+                "score": 192538,
+                "rank": 26
             }
         }
     }, {
@@ -3087,7 +3085,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 98.0,
+                "score": 99.0,
                 "rank": 80
             },
             "gender": {
@@ -3099,26 +3097,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 60.0,
-                "rank": 17
+                "score": 70.0,
+                "rank": 14
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 95.7142857142857,
-                "rank": 31
+                "score": 95.774647887324,
+                "rank": 30
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 3.72066399542072,
-                "rank": 17
+                "score": 3.68303571428571,
+                "rank": 14
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 97.2802024035421,
+                "score": 97.424155695478,
                 "rank": 23
             },
             "birth_date": {
@@ -3129,8 +3127,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 94309,
-                "rank": 59
+                "score": 99230,
+                "rank": 57
             }
         }
     }, {
@@ -3155,8 +3153,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 116.0,
-                "rank": 44
+                "score": 115.0,
+                "rank": 46
             },
             "gender": {
                 "score": "f"
@@ -3167,26 +3165,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 23.0,
-                "rank": 48
+                "score": 25.0,
+                "rank": 47
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 95.7142857142857,
-                "rank": 31
+                "score": 95.774647887324,
+                "rank": 30
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 2.23239839725244,
-                "rank": 48
+                "score": 2.23214285714286,
+                "rank": 47
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 97.5964579380139,
+                "score": 97.7103606182026,
                 "rank": 22
             },
             "birth_date": {
@@ -3197,8 +3195,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 170738,
-                "rank": 31
+                "score": 174168,
+                "rank": 30
             }
         }
     }, {
@@ -3234,27 +3232,27 @@
             },
             "speeches_per_session": {
                 "diff": 0,
-                "score": 39.0,
+                "score": 38.0,
                 "rank": 2
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 45.0,
-                "rank": 32
+                "score": 48.0,
+                "rank": 31
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.1428571428571,
+                "score": 97.1830985915493,
                 "rank": 20
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 14.4819690898683,
-                "rank": 32
+                "score": 14.3973214285714,
+                "rank": 31
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 87.539531941809,
+                "score": 88.666285060103,
                 "rank": 67
             },
             "birth_date": {
@@ -3265,8 +3263,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 129115,
-                "rank": 44
+                "score": 132632,
+                "rank": 41
             }
         }
     }, {
@@ -3303,27 +3301,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 49.0,
-                "rank": 28
+                "rank": 30
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 88.5714285714286,
+                "score": 88.7323943661972,
                 "rank": 68
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 12.9937034917001,
-                "rank": 28
+                "score": 12.6674107142857,
+                "rank": 30
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 84.7564832384567,
-                "rank": 75
+                "score": 86.2049227246709,
+                "rank": 73
             },
             "birth_date": {
                 "score": "1955-07-08"
@@ -3333,7 +3331,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 370295,
+                "score": 371952,
                 "rank": 4
             }
         }
@@ -3359,8 +3357,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 110.0,
-                "rank": 56
+                "score": 109.0,
+                "rank": 57
             },
             "gender": {
                 "score": "f"
@@ -3371,26 +3369,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 39.0,
-                "rank": 35
+                "score": 40.0,
+                "rank": 36
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 94.2857142857143,
-                "rank": 38
+                "score": 94.3661971830986,
+                "rank": 37
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 2.86204922724671,
-                "rank": 35
+                "score": 2.84598214285714,
+                "rank": 36
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.2289690069576,
+                "score": 98.3972524327419,
                 "rank": 16
             },
             "birth_date": {
@@ -3401,7 +3399,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 80875,
+                "score": 85253,
                 "rank": 62
             }
         }
@@ -3439,12 +3437,12 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 0.0,
-                "rank": 83
+                "rank": 82
             },
             "presence_sessions": {
                 "diff": 0,
@@ -3453,8 +3451,8 @@
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 0.136798905608757,
-                "rank": 83
+                "score": 0.257731958762889,
+                "rank": 82
             },
             "presence_votes": {
                 "diff": 0,
@@ -3469,8 +3467,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 24660,
-                "rank": 81
+                "score": 28256,
+                "rank": 79
             }
         }
     }, {
@@ -3495,7 +3493,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 105.0,
+                "score": 104.0,
                 "rank": 69
             },
             "gender": {
@@ -3507,26 +3505,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 5.0,
-                "rank": 77
+                "rank": 76
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 94.2857142857143,
-                "rank": 38
+                "score": 94.3661971830986,
+                "rank": 37
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 5.26617057813394,
-                "rank": 77
+                "score": 5.35714285714286,
+                "rank": 76
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 95.3826691967109,
+                "score": 95.7641671436749,
                 "rank": 33
             },
             "birth_date": {
@@ -3537,7 +3535,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 138094,
+                "score": 140507,
                 "rank": 37
             }
         }
@@ -3564,7 +3562,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 119.0,
-                "rank": 37
+                "rank": 38
             },
             "gender": {
                 "score": "f"
@@ -3575,26 +3573,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 50.0,
-                "rank": 27
+                "score": 51.0,
+                "rank": 28
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 9.21579851173439,
-                "rank": 27
+                "score": 9.09598214285714,
+                "rank": 28
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 90.1328273244782,
+                "score": 91.0131654264453,
                 "rank": 52
             },
             "birth_date": {
@@ -3606,7 +3604,7 @@
             "spoken_words": {
                 "diff": 0,
                 "score": 68838,
-                "rank": 68
+                "rank": 71
             }
         }
     }, {
@@ -3643,12 +3641,12 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 0.0,
-                "rank": 83
+                "rank": 82
             },
             "presence_sessions": {
                 "diff": 0,
@@ -3657,13 +3655,13 @@
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 0.957592339261282,
-                "rank": 83
+                "score": 1.03092783505154,
+                "rank": 82
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.9915966386555,
-                "rank": 7
+                "score": 99.0625,
+                "rank": 8
             },
             "birth_date": {
                 "score": "1969-02-25"
@@ -3700,7 +3698,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 108.0,
-                "rank": 60
+                "rank": 59
             },
             "gender": {
                 "score": "f"
@@ -3711,27 +3709,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 68.0,
-                "rank": 12
+                "score": 77.0,
+                "rank": 8
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 94.2857142857143,
-                "rank": 38
+                "score": 94.3661971830986,
+                "rank": 37
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 6.58271322266742,
-                "rank": 12
+                "score": 6.640625,
+                "rank": 8
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 93.2953826691967,
-                "rank": 40
+                "score": 93.8179736691471,
+                "rank": 41
             },
             "birth_date": {
                 "score": "1973-07-20"
@@ -3741,8 +3739,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 121970,
-                "rank": 48
+                "score": 117975,
+                "rank": 52
             }
         }
     }, {
@@ -3768,7 +3766,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 139.0,
-                "rank": 5
+                "rank": 6
             },
             "gender": {
                 "score": "f"
@@ -3779,26 +3777,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 66.0,
-                "rank": 13
+                "rank": 16
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.1428571428571,
+                "score": 97.1830985915493,
                 "rank": 20
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 0.710900473933648,
-                "rank": 13
+                "score": 0.787401574803141,
+                "rank": 16
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 93.168880455408,
+                "score": 93.7607326846022,
                 "rank": 42
             },
             "birth_date": {
@@ -3809,8 +3807,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 25648,
-                "rank": 80
+                "score": 26163,
+                "rank": 81
             }
         }
     }, {
@@ -3835,7 +3833,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 98.0,
+                "score": 99.0,
                 "rank": 80
             },
             "gender": {
@@ -3847,27 +3845,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 0.0,
-                "rank": 83
+                "rank": 82
             },
             "presence_sessions": {
                 "diff": 0,
                 "score": 0,
-                "rank": 90
+                "rank": 89
             },
             "mismatch_of_pg": {
                 "diff": 0,
                 "score": 0,
-                "rank": 83
+                "rank": 82
             },
             "presence_votes": {
                 "diff": 0,
                 "score": 0,
-                "rank": 90
+                "rank": 89
             },
             "birth_date": {
                 "score": "1960-12-22"
@@ -3877,7 +3875,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 10418,
+                "score": 10625,
                 "rank": 89
             }
         }
@@ -3903,8 +3901,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 111.0,
-                "rank": 55
+                "score": 112.0,
+                "rank": 54
             },
             "gender": {
                 "score": "f"
@@ -3914,28 +3912,28 @@
             },
             "speeches_per_session": {
                 "diff": 0,
-                "score": 5.0,
-                "rank": 15
+                "score": 4.0,
+                "rank": 20
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 59.0,
-                "rank": 19
+                "score": 60.0,
+                "rank": 20
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 84.2857142857143,
+                "score": 84.5070422535211,
                 "rank": 79
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 23.3543216943332,
-                "rank": 19
+                "score": 22.9352678571429,
+                "rank": 20
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 76.4073371283997,
-                "rank": 85
+                "score": 76.7029192902118,
+                "rank": 84
             },
             "birth_date": {
                 "score": "1987-07-01"
@@ -3945,7 +3943,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 282648,
+                "score": 283032,
                 "rank": 10
             }
         }
@@ -3983,26 +3981,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 28.0,
-                "rank": 41
+                "score": 29.0,
+                "rank": 43
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 88.5714285714286,
+                "score": 88.7323943661972,
                 "rank": 68
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 11.6199198626216,
-                "rank": 41
+                "score": 11.4397321428571,
+                "rank": 43
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 87.9190385831752,
+                "score": 88.8380080137378,
                 "rank": 66
             },
             "birth_date": {
@@ -4013,8 +4011,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 94621,
-                "rank": 56
+                "score": 97119,
+                "rank": 59
             }
         }
     }, {
@@ -4040,7 +4038,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 101.0,
-                "rank": 76
+                "rank": 77
             },
             "gender": {
                 "score": "f"
@@ -4056,21 +4054,21 @@
             "number_of_questions": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 81
+                "rank": 80
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 89.6551724137931,
+                "score": 90.0,
                 "rank": 67
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 30.5851063829787,
-                "rank": 81
+                "score": 29.1091593475533,
+                "rank": 80
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 67.4718196457327,
+                "score": 70.6480304955527,
                 "rank": 87
             },
             "birth_date": {
@@ -4082,7 +4080,7 @@
             "spoken_words": {
                 "diff": 0,
                 "score": 71641,
-                "rank": 66
+                "rank": 68
             }
         }
     }, {
@@ -4107,7 +4105,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 97.0,
+                "score": 98.0,
                 "rank": 82
             },
             "gender": {
@@ -4119,27 +4117,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 36.0,
-                "rank": 36
+                "score": 43.0,
+                "rank": 35
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 88.3333333333333,
-                "rank": 75
+                "score": 88.5245901639344,
+                "rank": 74
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 11.619283065513,
-                "rank": 36
+                "score": 11.4251352976548,
+                "rank": 35
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 87.3278236914601,
-                "rank": 68
+                "score": 86.3411619283065,
+                "rank": 72
             },
             "birth_date": {
                 "score": "1967-11-19"
@@ -4149,8 +4147,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 258634,
-                "rank": 12
+                "score": 271158,
+                "rank": 11
             }
         }
     }, {
@@ -4176,7 +4174,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 122.0,
-                "rank": 29
+                "rank": 30
             },
             "gender": {
                 "score": "f"
@@ -4187,27 +4185,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 57.0,
-                "rank": 21
+                "score": 61.0,
+                "rank": 19
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 10.6468231253578,
-                "rank": 21
+                "score": 10.4352678571429,
+                "rank": 19
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 89.753320683112,
-                "rank": 54
+                "score": 90.3262736119061,
+                "rank": 56
             },
             "birth_date": {
                 "score": "1978-12-14"
@@ -4217,8 +4215,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 74596,
-                "rank": 65
+                "score": 79992,
+                "rank": 64
             }
         }
     }, {
@@ -4243,8 +4241,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 119.0,
-                "rank": 37
+                "score": 120.0,
+                "rank": 35
             },
             "gender": {
                 "score": "f"
@@ -4260,21 +4258,21 @@
             "number_of_questions": {
                 "diff": 0,
                 "score": 17.0,
-                "rank": 57
+                "rank": 58
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.1428571428571,
+                "score": 97.1830985915493,
                 "rank": 20
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 6.46823125357756,
-                "rank": 57
+                "score": 6.41741071428571,
+                "rank": 58
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 92.9791271347249,
+                "score": 93.6462507155123,
                 "rank": 43
             },
             "birth_date": {
@@ -4285,8 +4283,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 178454,
-                "rank": 30
+                "score": 171015,
+                "rank": 32
             }
         }
     }, {
@@ -4312,7 +4310,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 108.0,
-                "rank": 60
+                "rank": 59
             },
             "gender": {
                 "score": "f"
@@ -4323,27 +4321,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 72.0,
-                "rank": 9
+                "score": 74.0,
+                "rank": 10
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 85.7142857142857,
-                "rank": 77
+                "score": 85.9154929577465,
+                "rank": 76
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 13.7950772753291,
-                "rank": 9
+                "score": 15.4575892857143,
+                "rank": 10
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 83.7444655281467,
-                "rank": 76
+                "score": 85.231825987407,
+                "rank": 74
             },
             "birth_date": {
                 "score": "1983-02-06"
@@ -4353,8 +4351,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 145590,
-                "rank": 34
+                "score": 144817,
+                "rank": 33
             }
         }
     }, {
@@ -4380,7 +4378,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 134.0,
-                "rank": 10
+                "rank": 11
             },
             "gender": {
                 "score": "f"
@@ -4391,26 +4389,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 31.0,
+                "score": 32.0,
                 "rank": 39
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.1428571428571,
+                "score": 97.1830985915493,
                 "rank": 20
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 1.94619347452776,
+                "score": 1.953125,
                 "rank": 39
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.6084756483238,
+                "score": 98.7406983400114,
                 "rank": 13
             },
             "birth_date": {
@@ -4421,7 +4419,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 135839,
+                "score": 137251,
                 "rank": 39
             }
         }
@@ -4459,7 +4457,7 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
@@ -4468,18 +4466,18 @@
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 90.0,
+                "score": 90.1408450704225,
                 "rank": 59
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 9.44476244991414,
+                "score": 9.48660714285714,
                 "rank": 67
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 88.8045540796964,
-                "rank": 64
+                "score": 89.4676588437321,
+                "rank": 63
             },
             "birth_date": {
                 "score": "1971-01-17"
@@ -4489,7 +4487,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 101087,
+                "score": 103600,
                 "rank": 55
             }
         }
@@ -4516,7 +4514,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 129.0,
-                "rank": 15
+                "rank": 16
             },
             "gender": {
                 "score": "f"
@@ -4531,22 +4529,22 @@
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 42.0,
+                "score": 45.0,
                 "rank": 34
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 88.5714285714286,
+                "score": 88.7323943661972,
                 "rank": 68
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 17.0578133943904,
+                "score": 17.0758928571429,
                 "rank": 34
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 82.7324478178368,
+                "score": 82.4842587292501,
                 "rank": 78
             },
             "birth_date": {
@@ -4557,7 +4555,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 213769,
+                "score": 213943,
                 "rank": 17
             }
         }
@@ -4584,7 +4582,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 104.0,
-                "rank": 72
+                "rank": 69
             },
             "gender": {
                 "score": "f"
@@ -4595,27 +4593,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 30.0,
-                "rank": 40
+                "score": 32.0,
+                "rank": 39
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 93.4426229508197,
-                "rank": 43
+                "score": 91.9354838709677,
+                "rank": 55
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 15.8851113716295,
-                "rank": 40
+                "score": 15.8195316961736,
+                "rank": 39
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 85.0,
-                "rank": 73
+                "score": 76.7291910902696,
+                "rank": 83
             },
             "birth_date": {
                 "score": "1972-07-17"
@@ -4625,7 +4623,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 203785,
+                "score": 206192,
                 "rank": 18
             }
         }
@@ -4651,7 +4649,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 129.0,
+                "score": 130.0,
                 "rank": 15
             },
             "gender": {
@@ -4663,12 +4661,12 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 64.0,
-                "rank": 14
+                "score": 72.0,
+                "rank": 11
             },
             "presence_sessions": {
                 "diff": 0,
@@ -4677,12 +4675,12 @@
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 4.63651974813966,
-                "rank": 14
+                "score": 4.79910714285714,
+                "rank": 11
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 99.3674889310563,
+                "score": 99.3131081854608,
                 "rank": 6
             },
             "birth_date": {
@@ -4693,8 +4691,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 119863,
-                "rank": 50
+                "score": 124684,
+                "rank": 48
             }
         }
     }, {
@@ -4735,23 +4733,23 @@
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 112.0,
+                "score": 117.0,
                 "rank": 5
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 81.4285714285714,
+                "score": 81.6901408450704,
                 "rank": 83
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 10.3033772180881,
+                "score": 10.2120535714286,
                 "rank": 5
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 89.3738140417457,
-                "rank": 59
+                "score": 90.3835145964511,
+                "rank": 54
             },
             "birth_date": {
                 "score": "1989-03-06"
@@ -4761,7 +4759,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 394813,
+                "score": 401460,
                 "rank": 3
             }
         }
@@ -4788,7 +4786,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 139.0,
-                "rank": 5
+                "rank": 6
             },
             "gender": {
                 "score": "f"
@@ -4799,12 +4797,12 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 0.0,
-                "rank": 83
+                "rank": 82
             },
             "presence_sessions": {
                 "diff": 0,
@@ -4813,13 +4811,13 @@
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 6.29274965800273,
-                "rank": 83
+                "score": 6.05670103092784,
+                "rank": 82
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 92.1008403361345,
-                "rank": 47
+                "score": 93.8239159001314,
+                "rank": 40
             },
             "birth_date": {
                 "score": "1957-09-30"
@@ -4829,7 +4827,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 11008,
+                "score": 11409,
                 "rank": 88
             }
         }
@@ -4867,11 +4865,11 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 12.0,
+                "score": 13.0,
                 "rank": 65
             },
             "presence_sessions": {
@@ -4881,7 +4879,7 @@
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 0.547195622435027,
+                "score": 0.644329896907209,
                 "rank": 65
             },
             "presence_votes": {
@@ -4897,7 +4895,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 37594,
+                "score": 39713,
                 "rank": 75
             }
         }
@@ -4923,7 +4921,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 120.0,
+                "score": 121.0,
                 "rank": 34
             },
             "gender": {
@@ -4935,27 +4933,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 25.0,
-                "rank": 46
+                "score": 28.0,
+                "rank": 44
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 98.5714285714286,
-                "rank": 11
+                "score": 98.5915492957747,
+                "rank": 12
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 1.37378362907842,
-                "rank": 46
+                "score": 1.39508928571429,
+                "rank": 44
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.798228969007,
-                "rank": 10
+                "score": 98.8551803091013,
+                "rank": 11
             },
             "birth_date": {
                 "score": "1977-01-05"
@@ -4965,7 +4963,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 124412,
+                "score": 127220,
                 "rank": 47
             }
         }
@@ -5003,26 +5001,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 17.0,
-                "rank": 57
+                "rank": 58
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 3.83514596451059,
-                "rank": 57
+                "score": 4.01785714285714,
+                "rank": 58
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 95.6356736242884,
+                "score": 95.9931310818546,
                 "rank": 30
             },
             "birth_date": {
@@ -5033,8 +5031,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 103290,
-                "rank": 54
+                "score": 121309,
+                "rank": 50
             }
         }
     }, {
@@ -5076,22 +5074,22 @@
             "number_of_questions": {
                 "diff": 0,
                 "score": 59.0,
-                "rank": 19
+                "rank": 21
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 92.8571428571429,
-                "rank": 45
+                "score": 92.9577464788732,
+                "rank": 44
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 12.9937034917001,
-                "rank": 19
+                "score": 12.7232142857143,
+                "rank": 21
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 85.3889943074004,
-                "rank": 72
+                "score": 86.7773325701202,
+                "rank": 71
             },
             "birth_date": {
                 "score": "1961-04-24"
@@ -5102,7 +5100,7 @@
             "spoken_words": {
                 "diff": 0,
                 "score": 14427,
-                "rank": 85
+                "rank": 86
             }
         }
     }, {
@@ -5139,27 +5137,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 60.0,
-                "rank": 17
+                "score": 64.0,
+                "rank": 18
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 84.2857142857143,
+                "score": 84.5070422535211,
                 "rank": 79
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 11.6771608471666,
-                "rank": 17
+                "score": 11.4397321428571,
+                "rank": 18
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 86.9070208728653,
-                "rank": 69
+                "score": 88.0938752146537,
+                "rank": 68
             },
             "birth_date": {
                 "score": "1962-01-06"
@@ -5169,7 +5167,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 306085,
+                "score": 301551,
                 "rank": 7
             }
         }
@@ -5196,7 +5194,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 116.0,
-                "rank": 44
+                "rank": 43
             },
             "gender": {
                 "score": "f"
@@ -5207,27 +5205,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 51.0,
+                "score": 55.0,
                 "rank": 26
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.6744186046512,
+                "score": 97.9166666666667,
                 "rank": 18
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 0.723208415516112,
+                "score": 0.702426564495525,
                 "rank": 26
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.9296636085627,
-                "rank": 9
+                "score": 99.0795529257068,
+                "rank": 7
             },
             "birth_date": {
                 "score": "1991-03-12"
@@ -5237,8 +5235,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 133636,
-                "rank": 41
+                "score": 132340,
+                "rank": 42
             }
         }
     }, {
@@ -5275,27 +5273,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 52.0,
-                "rank": 25
+                "score": 56.0,
+                "rank": 23
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 94.2857142857143,
-                "rank": 38
+                "score": 94.3661971830986,
+                "rank": 37
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 8.75787063537493,
-                "rank": 25
+                "score": 9.04017857142857,
+                "rank": 23
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 91.0183428209994,
-                "rank": 51
+                "score": 91.29937034917,
+                "rank": 50
             },
             "birth_date": {
                 "score": "1964-11-21"
@@ -5305,8 +5303,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 151120,
-                "rank": 33
+                "score": 144614,
+                "rank": 34
             }
         }
     }, {
@@ -5343,26 +5341,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 56.0,
+                "score": 58.0,
                 "rank": 22
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 88.5714285714286,
+                "score": 88.7323943661972,
                 "rank": 68
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 5.26617057813394,
+                "score": 5.13392857142857,
                 "rank": 22
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 94.4339025932954,
+                "score": 94.791070406411,
                 "rank": 35
             },
             "birth_date": {
@@ -5373,8 +5371,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 274016,
-                "rank": 11
+                "score": 270250,
+                "rank": 12
             }
         }
     }, {
@@ -5411,7 +5409,7 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
@@ -5420,18 +5418,18 @@
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 98.5714285714286,
-                "rank": 11
+                "score": 98.5915492957747,
+                "rank": 12
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 1.25930165998855,
+                "score": 1.28348214285714,
                 "rank": 67
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.9879822896901,
-                "rank": 8
+                "score": 99.0269032627361,
+                "rank": 9
             },
             "birth_date": {
                 "score": "1972-01-02"
@@ -5441,8 +5439,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 182519,
-                "rank": 28
+                "score": 183737,
+                "rank": 29
             }
         }
     }, {
@@ -5467,8 +5465,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 139.0,
-                "rank": 5
+                "score": 140.0,
+                "rank": 4
             },
             "gender": {
                 "score": "f"
@@ -5484,22 +5482,22 @@
             "number_of_questions": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 79
+                "rank": 78
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 98.5714285714286,
+                "score": 98.6842105263158,
                 "rank": 11
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 6.23926731539783,
-                "rank": 79
+                "score": 6.69642857142857,
+                "rank": 78
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.1024667931689,
-                "rank": 18
+                "score": 98.1549815498155,
+                "rank": 19
             },
             "birth_date": {
                 "score": "1960-12-01"
@@ -5509,7 +5507,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 604687,
+                "score": 616277,
                 "rank": 1
             }
         }
@@ -5535,7 +5533,7 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 101.0,
+                "score": 102.0,
                 "rank": 76
             },
             "gender": {
@@ -5547,27 +5545,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 3.0,
-                "rank": 24
+                "rank": 25
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 4.0,
-                "rank": 78
+                "score": 5.0,
+                "rank": 76
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 87.5,
-                "rank": 76
+                "score": 87.8787878787879,
+                "rank": 75
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 13.202614379085,
-                "rank": 78
+                "score": 12.8395061728395,
+                "rank": 76
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 78.0757097791798,
-                "rank": 83
+                "score": 82.625,
+                "rank": 77
             },
             "birth_date": {
                 "score": "1959-12-28"
@@ -5577,8 +5575,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 105794,
-                "rank": 53
+                "score": 107420,
+                "rank": 54
             }
         }
     }, {
@@ -5604,7 +5602,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 125.0,
-                "rank": 23
+                "rank": 22
             },
             "gender": {
                 "score": "f"
@@ -5615,27 +5613,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 5.0,
-                "rank": 15
+                "rank": 16
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 36.0,
-                "rank": 36
+                "score": 39.0,
+                "rank": 37
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 84.2857142857143,
-                "rank": 79
+                "score": 83.0985915492958,
+                "rank": 82
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 25.7584430452204,
-                "rank": 36
+                "score": 27.0647321428571,
+                "rank": 37
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 79.8861480075901,
-                "rank": 80
+                "score": 72.2953634802519,
+                "rank": 86
             },
             "birth_date": {
                 "score": "1956-08-27"
@@ -5645,8 +5643,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 184980,
-                "rank": 27
+                "score": 185682,
+                "rank": 28
             }
         }
     }, {
@@ -5671,8 +5669,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 106.0,
-                "rank": 64
+                "score": 105.0,
+                "rank": 67
             },
             "gender": {
                 "score": "f"
@@ -5682,28 +5680,28 @@
             },
             "speeches_per_session": {
                 "diff": 0,
-                "score": 2.0,
-                "rank": 35
+                "score": 1.0,
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 28.0,
+                "score": 30.0,
                 "rank": 41
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 91.4285714285714,
+                "score": 91.5492957746479,
                 "rank": 56
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 8.92959358900973,
+                "score": 10.546875,
                 "rank": 41
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 89.5003162555345,
-                "rank": 56
+                "score": 90.2690326273612,
+                "rank": 58
             },
             "birth_date": {
                 "score": "1962-05-13"
@@ -5713,7 +5711,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 127058,
+                "score": 128652,
                 "rank": 46
             }
         }
@@ -5739,8 +5737,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 114.0,
-                "rank": 49
+                "score": 115.0,
+                "rank": 46
             },
             "gender": {
                 "score": "f"
@@ -5751,26 +5749,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 44.0,
-                "rank": 33
+                "score": 46.0,
+                "rank": 32
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 90.0,
+                "score": 90.1408450704225,
                 "rank": 59
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 10.6468231253578,
-                "rank": 33
+                "score": 10.4352678571429,
+                "rank": 32
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 88.2985452245414,
+                "score": 89.4104178591872,
                 "rank": 65
             },
             "birth_date": {
@@ -5781,7 +5779,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 47702,
+                "score": 48648,
                 "rank": 73
             }
         }
@@ -5807,8 +5805,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 124.0,
-                "rank": 27
+                "score": 125.0,
+                "rank": 22
             },
             "gender": {
                 "score": "f"
@@ -5819,27 +5817,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 1.0,
-                "rank": 67
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
                 "score": 20.0,
-                "rank": 52
+                "rank": 53
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 97.2972972972973,
+                "score": 97.3684210526316,
                 "rank": 19
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 2.59026687598116,
-                "rank": 52
+                "score": 2.50189537528431,
+                "rank": 53
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 95.6678700361011,
-                "rank": 29
+                "score": 96.2323390894819,
+                "rank": 26
             },
             "birth_date": {
                 "score": "1990-09-14"
@@ -5849,7 +5847,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 30352,
+                "score": 31806,
                 "rank": 77
             }
         }
@@ -5875,8 +5873,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 139.0,
-                "rank": 5
+                "score": 138.0,
+                "rank": 8
             },
             "gender": {
                 "score": "f"
@@ -5886,28 +5884,28 @@
             },
             "speeches_per_session": {
                 "diff": 0,
-                "score": 30.0,
+                "score": 29.0,
                 "rank": 3
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 6.0,
-                "rank": 75
+                "score": 7.0,
+                "rank": 74
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 98.5714285714286,
-                "rank": 11
+                "score": 98.5915492957747,
+                "rank": 12
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 1.6599885518031,
-                "rank": 75
+                "score": 1.67410714285714,
+                "rank": 74
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 98.6084756483238,
-                "rank": 13
+                "score": 98.5689753863766,
+                "rank": 14
             },
             "birth_date": {
                 "score": "1986-05-28"
@@ -5917,8 +5915,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 189109,
-                "rank": 25
+                "score": 194398,
+                "rank": 23
             }
         }
     }, {
@@ -5944,7 +5942,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 119.0,
-                "rank": 37
+                "rank": 38
             },
             "gender": {
                 "score": "f"
@@ -5954,8 +5952,8 @@
             },
             "speeches_per_session": {
                 "diff": 0,
-                "score": 2.0,
-                "rank": 35
+                "score": 1.0,
+                "rank": 66
             },
             "number_of_questions": {
                 "diff": 0,
@@ -5964,18 +5962,18 @@
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 90.0,
+                "score": 90.1408450704225,
                 "rank": 59
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 12.6502575844305,
+                "score": 12.6116071428571,
                 "rank": 6
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 89.3738140417457,
-                "rank": 59
+                "score": 90.0400686891815,
+                "rank": 60
             },
             "birth_date": {
                 "score": "1978-02-19"
@@ -5985,8 +5983,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 131137,
-                "rank": 42
+                "score": 129910,
+                "rank": 44
             }
         }
     }, {
@@ -6012,7 +6010,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 120.0,
-                "rank": 34
+                "rank": 35
             },
             "gender": {
                 "score": "f"
@@ -6023,27 +6021,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 7.0,
-                "rank": 7
+                "rank": 8
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 55.0,
+                "score": 56.0,
                 "rank": 23
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 77.1428571428572,
+                "score": 77.4647887323944,
                 "rank": 86
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 24.8998282770464,
+                "score": 24.4977678571429,
                 "rank": 23
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 72.865275142315,
-                "rank": 86
+                "score": 75.2146536920435,
+                "rank": 85
             },
             "birth_date": {
                 "score": "1963-01-21"
@@ -6053,7 +6051,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 333586,
+                "score": 339693,
                 "rank": 5
             }
         }
@@ -6080,7 +6078,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 120.0,
-                "rank": 34
+                "rank": 35
             },
             "gender": {
                 "score": "f"
@@ -6091,26 +6089,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 7.0,
-                "rank": 7
+                "rank": 8
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 18.0,
-                "rank": 55
+                "score": 20.0,
+                "rank": 53
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 90.0,
+                "score": 90.1408450704225,
                 "rank": 59
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 15.9129937034917,
-                "rank": 55
+                "score": 15.7924107142857,
+                "rank": 53
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 86.8437697659709,
+                "score": 87.6359473382942,
                 "rank": 70
             },
             "birth_date": {
@@ -6121,7 +6119,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 238109,
+                "score": 240515,
                 "rank": 13
             }
         }
@@ -6147,8 +6145,8 @@
         "results": {
             "vocabulary_size": {
                 "diff": 0,
-                "score": 101.0,
-                "rank": 76
+                "score": 100.0,
+                "rank": 78
             },
             "gender": {
                 "score": "f"
@@ -6159,27 +6157,27 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 405.0,
+                "score": 421.0,
                 "rank": 2
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 81.4285714285714,
+                "score": 81.6901408450704,
                 "rank": 83
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 36.6914710933028,
+                "score": 35.8258928571429,
                 "rank": 2
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 49.7786211258697,
-                "rank": 89
+                "score": 51.9748139668002,
+                "rank": 88
             },
             "birth_date": {
                 "score": "1948-01-08"
@@ -6189,7 +6187,7 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 136185,
+                "score": 139671,
                 "rank": 38
             }
         }
@@ -6216,7 +6214,7 @@
             "vocabulary_size": {
                 "diff": 0,
                 "score": 116.0,
-                "rank": 44
+                "rank": 43
             },
             "gender": {
                 "score": "f"
@@ -6227,26 +6225,26 @@
             "speeches_per_session": {
                 "diff": 0,
                 "score": 2.0,
-                "rank": 35
+                "rank": 36
             },
             "number_of_questions": {
                 "diff": 0,
-                "score": 49.0,
-                "rank": 28
+                "score": 52.0,
+                "rank": 27
             },
             "presence_sessions": {
                 "diff": 0,
-                "score": 91.4285714285714,
+                "score": 91.5492957746479,
                 "rank": 56
             },
             "mismatch_of_pg": {
                 "diff": 0,
-                "score": 6.23926731539783,
-                "rank": 28
+                "score": 6.13839285714286,
+                "rank": 27
             },
             "presence_votes": {
                 "diff": 0,
-                "score": 94.4339025932954,
+                "score": 94.791070406411,
                 "rank": 35
             },
             "birth_date": {
@@ -6257,8 +6255,8 @@
             },
             "spoken_words": {
                 "diff": 0,
-                "score": 194478,
-                "rank": 22
+                "score": 193692,
+                "rank": 24
             }
         }
     }]
