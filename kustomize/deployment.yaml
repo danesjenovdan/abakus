@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: abakus
+  labels:
+    app: abakus
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: abakus
+  template:
+    metadata:
+      labels:
+        app: abakus
+    spec:
+      containers:
+        - name: abakus
+          image: abakus
+          ports:
+            - containerPort: 80
+          resources:
+            requests:
+              memory: 50Mi
+              cpu: 50m
+            limits:
+              memory: 50Mi
+              cpu: 50m
