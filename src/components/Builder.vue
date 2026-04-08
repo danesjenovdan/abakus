@@ -162,95 +162,98 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-  #builder {
-    display: block;
-    // padding-top: 40px;
-    flex-wrap: wrap;
-    text-align: left;
-    overflow: hidden;
-    #party-buttons {
-      flex: 1;
-      width: 45%;
-      float: left;
+#builder {
+  display: block;
+  // padding-top: 40px;
+  flex-wrap: wrap;
+  text-align: left;
+  overflow: hidden;
 
-      @media (max-width: 768px) {
-        width: 95%;
-      }
-    }
+  #party-buttons {
+    flex: 1;
+    width: 45%;
+    float: left;
 
-    .regular-button {
-      margin-bottom: 10px;
-    }
-
-    #dz-container {
-      position: fixed;
-      display: block;
-      width: 50%;
-      right: 10px;
-
-      padding: 20px;
-
-      text-align: center;
-      svg {
-        max-height: 347px;
-      }
-
-      @media (max-width: 768px) {
-        // display: none;
-        width: 100%;
-        display: block;
-        position: relative;
-      }
-    }
-    #info-container {
-      #prompt {
-        width: 100%;
-        text-align: center;
-        margin: auto;
-        margin-top: 30px;
-      }
-
-      .tiny-card-container {
-        width: 100%;
-        display: flex;
-
-        @media (max-width: 768px) {
-          flex-wrap: wrap;
-
-          .tiny-card {
-            margin: 0;
-          }
-        }
-      }
-
-      @media (max-width: 768px) {
-        margin-left: 20px;
-      }
-    }
-
-    #prompt {
-      max-width: 400px;
-      text-align: left;
-      color: #070c2f;
-      font-family: 'Barlow', sans-serif;
-      font-size: 24px;
-      font-weight: 300;
-      line-height: 30px;
-
-      margin-top: 0;
-
-      strong {
-        font-weight: 700;
-      }
-    }
-
-    .button-container {
-      width: 100%;
-      text-align: left;
-      position: relative;
-      margin-top: 20px;
+    @media (max-width: 768px) {
+      width: 95%;
     }
   }
+
+  .regular-button {
+    margin-bottom: 10px;
+  }
+
+  #dz-container {
+    position: fixed;
+    display: block;
+    width: 50%;
+    right: 10px;
+
+    padding: 20px;
+
+    text-align: center;
+
+    svg {
+      max-height: 347px;
+    }
+
+    @media (max-width: 768px) {
+      // display: none;
+      width: 100%;
+      display: block;
+      position: relative;
+    }
+  }
+
+  #info-container {
+    #prompt {
+      width: 100%;
+      text-align: center;
+      margin: auto;
+      margin-top: 30px;
+    }
+
+    .tiny-card-container {
+      width: 100%;
+      display: flex;
+
+      @media (max-width: 768px) {
+        flex-wrap: wrap;
+
+        .tiny-card {
+          margin: 0;
+        }
+      }
+    }
+
+    @media (max-width: 768px) {
+      margin-left: 20px;
+    }
+  }
+
+  #prompt {
+    max-width: 400px;
+    text-align: left;
+    color: #070c2f;
+    font-family: 'Barlow', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 30px;
+
+    margin-top: 0;
+
+    strong {
+      font-weight: 700;
+    }
+  }
+
+  .button-container {
+    width: 100%;
+    text-align: left;
+    position: relative;
+    margin-top: 20px;
+  }
+}
 </style>
 
 <style lang="scss">
