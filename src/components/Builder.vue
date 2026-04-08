@@ -15,14 +15,14 @@
         <party-button
           class="bigone"
           :caption="party.acronym"
-          :selected="selectedParties.indexOf(party.acrontm) !== -1"
+          :selected="selectedParties.indexOf(party.acronym) !== -1"
           @click.native="clickParty(party)"
         />
         <party-button
           v-for="person in party.people"
-          :key="person.person.name"
-          :caption="person.person.name"
-          :selected="selectedPeople.indexOf(person.person.id) !== -1"
+          :key="person.slug"
+          :caption="person.name"
+          :selected="selectedPeople.indexOf(person.slug) !== -1"
           @click.native="clickPerson(person)"
         ></party-button>
       </div>
@@ -33,7 +33,6 @@
 <script>
 import PartyButton from './PartyButton.vue';
 import DZVec from './DZ.vue';
-import dz from '../assets/people.json';
 
 export default {
   name: 'Builder',
@@ -44,36 +43,46 @@ export default {
   },
 
   data() {
-    const partiesDict = dz.data.reduce((acc, person) => {
-      (acc[person.person.party.acronym] = acc[person.person.party.acronym] || []).push(person);
-      return acc;
-    }, {});
-
-    console.log(partiesDict);
-
-    const parties = Object.keys(partiesDict).map((key) => ({
-      people: partiesDict[key],
-      acronym: key,
-      count: partiesDict[key].length,
-    }));
-
     return {
       numHighlighted: 0,
-      people: dz.data.map((person) => {
-        const theperson = person;
-        return {
-          acronym: theperson.person.name,
-          seats: 1,
-          selected: false,
-          loserImg: '',
-          loserText: '',
-        };
-      }),
-      parties,
+      people: [],
+      parties: [],
       selectedParties: [],
       selectedPeople: [],
       chosenParties: [],
     };
+  },
+
+  created() {
+    fetch('https://parladata-slovenija.lb.djnd.si/v3/cards/misc/members/?id=137&members:per_page=90')
+      .then((response) => {
+        if (!response.ok) throw new Error(`HTTP error: ${response.status}`);
+        return response.json();
+      })
+      .then((dz) => {
+        const partiesDict = dz.results.members.reduce(
+          (acc, person) => {
+            const acronym = person.group?.acronym ?? 'Brez poslanske skupine';
+            (acc[acronym] = acc[acronym] || []).push(person);
+            return acc;
+          },
+          {},
+        );
+
+        this.parties = Object.keys(partiesDict).map((key) => ({
+          people: partiesDict[key],
+          acronym: key,
+          count: partiesDict[key].length,
+        }));
+
+        this.people = dz.results.members.map((person) => ({
+          acronym: person.name,
+          seats: 1,
+          selected: false,
+          loserImg: '',
+          loserText: '',
+        }));
+      });
   },
 
   computed: {
@@ -92,16 +101,16 @@ export default {
       const index = this.selectedParties.indexOf(party.acronym);
       if (index === -1) {
         this.parties.filter((p) => p.acronym === party.acronym)[0].people.forEach((person) => {
-          const index2 = this.selectedPeople.indexOf(person.person.id);
+          const index2 = this.selectedPeople.indexOf(person.slug);
           if (index2 === -1) {
-            this.selectedPeople.push(person.person.id);
+            this.selectedPeople.push(person.slug);
             this.numHighlighted += 1;
           }
         });
         this.selectedParties.push(party.acronym);
       } else {
         this.parties.filter((p) => p.acronym === party.acronym)[0].people.forEach((person) => {
-          const index2 = this.selectedPeople.indexOf(person.person.id);
+          const index2 = this.selectedPeople.indexOf(person.slug);
           if (index2 !== -1) {
             this.selectedPeople.splice(index2, 1);
             this.numHighlighted -= 1;
@@ -115,9 +124,9 @@ export default {
       // }
     },
     clickPerson(person) {
-      const index = this.selectedPeople.indexOf(person.person.id);
+      const index = this.selectedPeople.indexOf(person.slug);
       if (index === -1) {
-        this.selectedPeople.push(person.person.id);
+        this.selectedPeople.push(person.slug);
         this.numHighlighted += 1;
       } else {
         this.selectedPeople.splice(index, 1);
@@ -131,7 +140,6 @@ export default {
     chooseParties() {
       const firstindex = Math.floor(Math.random() * this.selectedParties.length);
       const secondindex = Math.floor(Math.random() * this.selectedParties.length);
-      console.log(firstindex, secondindex);
       if (firstindex !== secondindex) {
         this.chosenParties = this.parties.filter((party) => (
           party.acronym === this.selectedParties[firstindex]
