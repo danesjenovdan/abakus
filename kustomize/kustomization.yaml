@@ -8,4 +8,4 @@ resources:
 images:
   - name: abakus
     newName: rg.fr-par.scw.cloud/djnd/abakus
-    newTag: 'f5eaa9eca6cb42d2f1a3f7f84004f5bf42e5ce04'
+    newTag: "latest"

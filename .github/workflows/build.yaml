@@ -2,14 +2,14 @@ name: Build and publish Docker image
 on:
   push:
     branches:
-      - "master"
+      - "k8s"
 jobs:
   push_to_registry:
     name: Build and push Docker image to registry
     runs-on: ubuntu-latest
     steps:
       - name: Check out the repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
@@ -23,6 +23,9 @@ jobs:
 
       - name: Build and push
         uses: docker/build-push-action@v6
+        env:
+          DOCKER_BUILD_SUMMARY: false
+          DOCKER_BUILD_RECORD_UPLOAD: false
         with:
           context: .
           push: true
@@ -33,7 +36,7 @@ jobs:
       - name: Update image versions in kustomize/kustomization.yaml
         run: |
           sed -i "s/newTag: .*\+/newTag\: '${{ github.sha }}'/" kustomize/kustomization.yaml
-          
+
       - name: Commit and push new image versions
         uses: EndBug/add-and-commit@v9
         with:
